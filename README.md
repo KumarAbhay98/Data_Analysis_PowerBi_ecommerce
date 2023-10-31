@@ -1,5 +1,3 @@
-# Ecommerce_data_analysis
-
 # E-commerce Data Analysis Dashboard
 
 ## Project Overview
@@ -14,15 +12,27 @@ This project is a data analysis dashboard created using Microsoft Power BI. It i
 
 3. **Donut Chart**: The donut chart is a visually appealing way to display the proportion of various categories within a whole. It's ideal for showing the relationship between different data elements and their contribution to the whole.
 
+## Slicers
+
+The dashboard incorporates slicers, which allow you to dynamically filter and explore the data. The slicers used include:
+
+- **City Slicer**: Use this slicer to filter data by specific cities, enabling a focus on regional performance and insights.
+
+- **Month Slicer**: The month slicer allows you to view data for specific months, helping you track and analyze seasonal trends.
+
+- **State Slicer**: Filter data by state, providing insights into performance variations across different states.
+
+  <img width="568" alt="ecommercebi" src="https://github.com/KumarAbhay98/Data_Analysis_PowerBi_ecommerce/assets/92244303/8ea1b34b-c7d6-4aac-b555-11cc543cadd2">
+
+
 ## How to Use
 
 1. Clone this repository to your local machine.
 2. Open the Power BI project file in Power BI Desktop.
 3. Connect the project to your e-commerce data source.
 4. Explore the dashboard to gain insights into your e-commerce data.
-5. Utilize the provided filters to focus on specific aspects of the data, such as by city, month, or state.
+5. Utilize the provided slicers to focus on specific aspects of the data, such as by city, month, or state.
 
 Enjoy using the dashboard to make data-driven decisions and optimize your e-commerce business.
 
 
-<img width="568" alt="ecommercebi" src="https://github.com/KumarAbhay98/Data_Analysis_PowerBi_ecommerce/assets/92244303/8ea1b34b-c7d6-4aac-b555-11cc543cadd2">
